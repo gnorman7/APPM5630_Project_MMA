@@ -1,5 +1,5 @@
 # APPM5630 Project: Method of Moving Asymptotes
-Explores the Method of Moving Asymptotes (MMA) by Svanberg as a sequential convex programming method, as final project for [Prof. Stephen Becker's Convex Optimization class](https://github.com/stephenbeckr/convex-optimization-class) (APPM 5630) at CU Boulder.
+Explores the Method of Moving Asymptotes (MMA) by Svanberg as a sequential convex programming method, as a final project for [Prof. Stephen Becker's Convex Optimization class](https://github.com/stephenbeckr/convex-optimization-class) (APPM 5630) at CU Boulder.
 
 The notebook [demo.ipynb](demo.ipynb) accompanies the [the report](./APPM5630_Project.pdf) and [presentation](./MMA.pptx).  Throughout, an external [code by Arjen Deetman](https://github.com/arjendeetman/GCMMA-MMA-Python/tree/master/Code) is used. This code is based on [Svanberg's own code](http://www.smoptit.se/). Comments are added where we reuse some of Arjen Deetman's code. Any liscensing issues should be directed to the original authors.
 
