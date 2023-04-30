@@ -5,10 +5,13 @@ Explores the Method of Moving Asymptotes by Svanberg as a sequential convex prog
 ## Some gifs to go Along with the Report
 
 ### Approximation Functions
-![image](quad_fun_ma1.gif "ma1")
+Default initialization of moving asymptotes:
+![image](quad_fun_ma1.gif "")
 
+Twice as close moving asymptotes:
 ![image](quad_fun_ma2.gif "ma2")
 
+Five times as close moving asymptotes:
 ![image](quad_fun_ma5.gif "ma3")
 
 
